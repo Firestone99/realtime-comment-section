@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/img/working-screencapture.png" />
+  <img src="./public/img/workingscreenshot.jpg" />
 </p>
 
 <h1 align="center"> realtime-comment-section </h1>
